@@ -1,0 +1,45 @@
+/* Estilo para el título */
+h1 {
+    color: rgb(73, 181, 231); 
+    font-size: 55px; 
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilo para el fondo del body */
+  body {
+    background-color: black; /* Color de fondo del body */
+  }
+  
+  /* Estilos adicionales para el carrusel */
+  .carousel-inner {
+    background-color: transparent;
+    color: white;
+  }
+  
+  .carousel-item {
+    text-align: center;
+  }
+  
+  .carousel-inner img {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  .carousel-caption {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  /* Estilo para el footer */
+  .footer {
+    color: rgb(71, 160, 233); 
+    bottom: 0;
+    width: 100%;
+    text-align: center; 
+  }
+  
+  
